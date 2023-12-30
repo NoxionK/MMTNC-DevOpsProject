@@ -1,0 +1,152 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{CI/CDGitHub}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=d3b7c913cd04ebfec0e9ec32cb6fd58c}{%
+           family={GitHub},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{d3b7c913cd04ebfec0e9ec32cb6fd58c}
+      \strng{fullhash}{d3b7c913cd04ebfec0e9ec32cb6fd58c}
+      \strng{bibnamehash}{d3b7c913cd04ebfec0e9ec32cb6fd58c}
+      \strng{authorbibnamehash}{d3b7c913cd04ebfec0e9ec32cb6fd58c}
+      \strng{authornamehash}{d3b7c913cd04ebfec0e9ec32cb6fd58c}
+      \strng{authorfullhash}{d3b7c913cd04ebfec0e9ec32cb6fd58c}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{CI/CD pipeline with GitHub}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://resources.github.com/devops/fundamentals/ci-cd/ci-cd-with-github-and-jenkins/
+      \endverb
+      \verb{url}
+      \verb https://resources.github.com/devops/fundamentals/ci-cd/ci-cd-with-github-and-jenkins/
+      \endverb
+    \endentry
+    \entry{JenkinsDocs}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=2e54334c0a5ce2e3e5a5845df3ab3ada}{%
+           family={Jenkins},
+           familyi={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{2e54334c0a5ce2e3e5a5845df3ab3ada}
+      \strng{fullhash}{2e54334c0a5ce2e3e5a5845df3ab3ada}
+      \strng{bibnamehash}{2e54334c0a5ce2e3e5a5845df3ab3ada}
+      \strng{authorbibnamehash}{2e54334c0a5ce2e3e5a5845df3ab3ada}
+      \strng{authornamehash}{2e54334c0a5ce2e3e5a5845df3ab3ada}
+      \strng{authorfullhash}{2e54334c0a5ce2e3e5a5845df3ab3ada}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Jenkins Documentation}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.jenkins.io/doc/
+      \endverb
+      \verb{url}
+      \verb https://www.jenkins.io/doc/
+      \endverb
+    \endentry
+    \entry{DockerDocs}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=c5fd214cdd0d2b3b4272e73b022ba5c2}{%
+           family={Docker},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{c5fd214cdd0d2b3b4272e73b022ba5c2}
+      \strng{fullhash}{c5fd214cdd0d2b3b4272e73b022ba5c2}
+      \strng{bibnamehash}{c5fd214cdd0d2b3b4272e73b022ba5c2}
+      \strng{authorbibnamehash}{c5fd214cdd0d2b3b4272e73b022ba5c2}
+      \strng{authornamehash}{c5fd214cdd0d2b3b4272e73b022ba5c2}
+      \strng{authorfullhash}{c5fd214cdd0d2b3b4272e73b022ba5c2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Docker Documentation}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://docs.docker.com/
+      \endverb
+      \verb{url}
+      \verb https://docs.docker.com/
+      \endverb
+    \endentry
+    \entry{GitHubDocs}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=d3b7c913cd04ebfec0e9ec32cb6fd58c}{%
+           family={GitHub},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{d3b7c913cd04ebfec0e9ec32cb6fd58c}
+      \strng{fullhash}{d3b7c913cd04ebfec0e9ec32cb6fd58c}
+      \strng{bibnamehash}{d3b7c913cd04ebfec0e9ec32cb6fd58c}
+      \strng{authorbibnamehash}{d3b7c913cd04ebfec0e9ec32cb6fd58c}
+      \strng{authornamehash}{d3b7c913cd04ebfec0e9ec32cb6fd58c}
+      \strng{authorfullhash}{d3b7c913cd04ebfec0e9ec32cb6fd58c}
+      \field{extraname}{2}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{GitHub Documentation}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://docs.github.com/en
+      \endverb
+      \verb{url}
+      \verb https://docs.github.com/en
+      \endverb
+    \endentry
+    \entry{CI/CDpipeline}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=73de7aa11e53cf3d5175111e34074676}{%
+           family={SysopsMicro},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{73de7aa11e53cf3d5175111e34074676}
+      \strng{fullhash}{73de7aa11e53cf3d5175111e34074676}
+      \strng{bibnamehash}{73de7aa11e53cf3d5175111e34074676}
+      \strng{authorbibnamehash}{73de7aa11e53cf3d5175111e34074676}
+      \strng{authornamehash}{73de7aa11e53cf3d5175111e34074676}
+      \strng{authorfullhash}{73de7aa11e53cf3d5175111e34074676}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{CI/CD pipeline}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://medium.com/the-programmer/building-ci-cd-pipeline-with-jenkins-kubernetes-github-part-2-cbb6c366aa41
+      \endverb
+      \verb{url}
+      \verb https://medium.com/the-programmer/building-ci-cd-pipeline-with-jenkins-kubernetes-github-part-2-cbb6c366aa41
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
